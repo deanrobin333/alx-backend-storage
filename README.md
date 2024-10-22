@@ -25,7 +25,7 @@
 ---
 #### 1
 ###### [Table of Contents](#table-of-contents)
-### [1. 0x01. NoSQL](./)
+### [1. 0x01. NoSQL](./0x01-NoSQL)
 - What NoSQL means
 - What is difference between SQL and NoSQL
 - What is ACID
