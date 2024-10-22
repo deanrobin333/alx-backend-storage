@@ -483,7 +483,7 @@ guillaume@ubuntu:~/0x01$
 
 
 
-- You can use this dump as data sample: dump.zip 
+- <span style="color: #333333;">You can use this dump as data sample:</span> [dump.zip](https://s3.amazonaws.com/intranet-projects-files/holbertonschool-webstack/411/dump.zip "dump.zip")
 
 - The output of your script must be exactly the same as the example
 
