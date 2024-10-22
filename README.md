@@ -4,7 +4,8 @@
 - [Author Details](#author-details)
 - [Projects](#tasks)
     - [0. 0x00. MySQL advanced](#0)
-    - [1. ](#1)
+    - [1. 0x01. NoSQL](#1)
+    - [2. ](#2)
 
     
 ---
@@ -24,7 +25,21 @@
 ---
 #### 1
 ###### [Table of Contents](#table-of-contents)
-### [1. ](./)
+### [1. 0x01. NoSQL](./)
+- What NoSQL means
+- What is difference between SQL and NoSQL
+- What is ACID
+- What is a document storage
+- What are NoSQL types
+- What are benefits of a NoSQL database
+- How to query information from a NoSQL database
+- How to insert/update/delete information from a NoSQL database
+- How to use MongoDB
+
+---
+#### 2
+###### [Table of Contents](#table-of-contents)
+### [2. ](./)
 
 ---
 
