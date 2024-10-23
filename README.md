@@ -5,7 +5,8 @@
 - [Projects](#tasks)
     - [0. 0x00. MySQL advanced](#0)
     - [1. 0x01. NoSQL](#1)
-    - [2. ](#2)
+    - [2. 0x02. Redis basic](#2)
+    - [3. ](#3)
 
     
 ---
@@ -39,7 +40,14 @@
 ---
 #### 2
 ###### [Table of Contents](#table-of-contents)
-### [2. ](./)
+### [2. 0x02. Redis basic](./0x02-redis_basic)
+- Learn how to use redis for basic operations
+- Learn how to use redis as a simple cache
+
+---
+#### 3
+###### [Table of Contents](#table-of-contents)
+### [3. ](./)
 
 ---
 
